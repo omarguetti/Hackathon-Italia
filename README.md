@@ -3,7 +3,7 @@ A collaborative, curated and evolving list of hackathons in Italy (with a few ex
 
 **Your PRs are more than welcome! Please check [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a PR.**
 
-TODO:
+TODO0:
 
 - [x] Start the list
 - [x] Add CONTRIBUTORS.md
